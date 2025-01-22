@@ -1,0 +1,11 @@
+
+#pragma once
+
+// Define DPIs 
+#define PLOOPY_DPI_OPTIONS { 400, 600, 800, 1000, 1200, 1600, 2400 }
+#define PLOOPY_DPI_DEFAULT 1
+#define PLOOPY_DRAGSCROLL_FIXED 1
+#define PLOOPY_DRAGSCROLL_INVERT 1
+#define PLOOPY_DRAGSCROLL_DPI 100  // Fixed-DPI Drag Scroll
+
+#define TAPPING_TERM 250
